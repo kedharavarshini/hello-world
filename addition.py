@@ -1,0 +1,8 @@
+a=int(input("enter a value:"))
+b=int(input("enter b value:"))
+print("the sum is ",a+b)
+print("the difference is",a-b)
+print("the product is",a*b)
+print("the remainder is ",a%b)
+print("the division is",a/b)
+print("the int division is",a//b)
